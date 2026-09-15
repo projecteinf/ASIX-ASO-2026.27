@@ -1,0 +1,9 @@
+# Perfils d'usuari
+Segons les necessitats del sistema associades a cada treballador, podem definir diferents perfils.
+
+| Perfil                     | Descripció                                                                                                               | Necessitats principals                                                                                                                 |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------- |
+| Usuari estàndard           | Treballador habitual d'un departament. Fa servir els recursos propis del seu àmbit de treball.                           | Accedir a la seva carpeta personal, als recursos del seu departament i als recursos comuns de l'empresa.                               |
+| Responsable de departament | Usuari encarregat de coordinar un departament. Necessita consultar informació del seu equip i validar documents interns. | Accedir als recursos del seu departament amb permisos complets i consultar determinats informes o carpetes compartides amb direcció.   |
+| Administrador del sistema  | Usuari tècnic encarregat de mantenir els sistemes informàtics de l'empresa.                                              | Crear i modificar usuaris, gestionar grups, configurar serveis, revisar logs, administrar permisos i accedir remotament als servidors. |
+| Usuari extern              | Usuari temporal o extern que necessita accés limitat a alguns recursos.                                                  | Accedir només a recursos públics o compartits específics, sense permisos d'administració ni accés a informació interna.                |
