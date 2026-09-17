@@ -1,9 +1,5 @@
 # Fitxa 1 — Anàlisi inicial de MusicCloud
 
-**Nom i cognoms:** __________________________________________  
-**Data:** __________________  
-**Equip / parella:** _________________________________________
-
 ## Objectiu
 
 MusicCloud necessita reorganitzar la seva infraestructura informàtica. Abans d'instal·lar o configurar cap servei, cal entendre:
