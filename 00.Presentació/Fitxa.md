@@ -371,18 +371,4 @@ Quina de les dues estratègies consideres més adequada?
 
 Justifica la resposta.
 
----
 
----
-
----
-
-Jo **no faria obligatori que acabessin tota la fitxa abans d'explicar res**. La utilitzaria de manera sincronitzada amb la classe:
-
-**0–40 min:** apartats 1–3 → analitzen MusicCloud i els accessos.  
-**40–65 min:** apartats 4–5 → apareix el problema de gestionar permisos individualment.  
-**65–85 min:** explicació curta de **usuari, grup, recurs, permís i mínim privilegi**.  
-**85–110 min:** apartats 6–9 → apliquen immediatament el concepte de grup.  
-**110–120 min:** apartats 10–12 → revisió i tancament.
-
-Hi ha una decisió pedagògica important: a l'apartat 4 **no utilitzo la paraula “grup” fins que l'alumnat ha intentat resoldre el problema**. Això encaixa molt millor amb el cicle que vols seguir: primer tenen el problema, després apareix la necessitat i només aleshores introdueixes el concepte teòric.
